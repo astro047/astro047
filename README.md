@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @astro047
-- 👀 Interested in cybersecurity
+- 👀 Interested in data science and analytics
 - 📫 mail me at shivammspace@gmai.com
 
 <!---
